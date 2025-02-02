@@ -1,6 +1,7 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "What is Etinerys?",
+  "text": "ETINERYS is an anagram of ‘Serenity’We aspire to create a space where people can find peace of mind through technology.",
+  "color": "#fff",
   "button": [
     {
       "title": "Explore"

@@ -1,4 +1,6 @@
 import { TFunction } from "react-i18next";
+import { IValues } from "../../common/utils/useForm"; // IValues 가져오기
+
 export interface ContactProps {
   title: string;
   content: string;
@@ -7,5 +9,5 @@ export interface ContactProps {
 }
 
 export interface ValidationTypeProps {
-  type: string;
+  type: keyof IValues; // IValues의 키 중 하나만 허용
 }

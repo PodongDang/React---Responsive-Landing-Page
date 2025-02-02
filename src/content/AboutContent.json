@@ -1,16 +1,16 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Personalized Meditation",
+  "text": "Powered by Generative AI (LLM) as your personal meditation guide. Understands your mental state and personal needs for tailored meditation.",
   "section": [
     {
       "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "content": "",
       "icon": "notes.svg"
     },
     {
       "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
+      "content": "",
+      "icon": "deepseek.svg"
     }
   ]
 }
