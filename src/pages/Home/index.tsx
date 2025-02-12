@@ -27,7 +27,6 @@ const Home = () => {
       <MiddleBlock
         title={MiddleBlockContent.title}
         content={MiddleBlockContent.text}
-        button={MiddleBlockContent.button}
       />
       <ContentBlock
         direction="left"
@@ -44,13 +43,13 @@ const Home = () => {
         icon="nature.png"
         id="mission"
       />
-      <ContentBlock
+      {/* <ContentBlock
         direction="left"
         title={ProductContent.title}
         content={ProductContent.text}
         icon="waving.svg"
         id="product"
-      />
+      /> */}
       <Contact
         title={ContactContent.title}
         content={ContactContent.text}
