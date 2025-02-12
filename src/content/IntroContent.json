@@ -1,14 +1,10 @@
 {
-  "title": "What is Etinerys?",
-  "text": "ETINERYS is an anagram of ‘Serenity’We aspire to create a space where people can find peace of mind through technology.",
+  "title": "ETINERYS?",
+  "text": "Your personalized VR meditation service. We help everyone find their inner peace through technology.",
   "color": "#fff",
   "button": [
     {
-      "title": "Explore"
-    },
-    {
-      "title": "Learn more",
-      "color": "#fff"
+      "title": "WHO ARE WE"
     }
   ]
 }
