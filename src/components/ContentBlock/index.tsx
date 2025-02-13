@@ -17,11 +17,11 @@ import {
 } from "./styles";
 
 const ContentBlock = ({
-  icon,
   title,
   content,
   section,
   button,
+  icon,
   t,
   id,
   direction,
